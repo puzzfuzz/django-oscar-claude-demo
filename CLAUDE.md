@@ -215,3 +215,11 @@ Important Oscar settings (see `oscar/defaults.py` for full list):
 - Use `python manage.py collectstatic` to gather static files
 - Oscar uses Babel for currency formatting (requires locale data)
 - Search requires Haystack configuration (Whoosh, Solr, or Elasticsearch)
+
+## Linear Integration
+
+**Default Project**: Oscar-Demo-Decomp-Test1
+- Project ID: `0de7b52f-bec5-4d21-93e3-9f2763e3e2f9`
+- Project URL: https://linear.app/cpuzzo/project/oscar-demo-decomp-test1-69d4ac454491
+
+When creating or resolving issues for this repository, use the Oscar-Demo-Decomp-Test1 project by default unless otherwise specified.
